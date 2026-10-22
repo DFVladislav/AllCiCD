@@ -1,37 +1,42 @@
-🚀 CI/CD и GitHub Actions
+# 🎓 Портфолио лабораторных работ (DevOps / CI/CD)
 
-| Лабораторная работа | Репозиторий | Технологии | Демо / Ссылка |
-| :--- | :--- | :--- | :--- |
-| **Статический сайт** | [`hello-static`](https://github.com/DFVladislav/hello-static) | HTML, CSS, JS, GitHub Pages | [🌐 Живой сайт](https://DFVladislav.github.io/hello-static/) |
-| **React SPA** | [`hello-pages`](https://github.com/DFVladislav/hello-pages) | React, Vite, TypeScript, GitHub Pages | [🌐 Живой сайт](https://DFVladislav.github.io/hello-pages/) |
-| **Go GUI (Fyne)** | [`hex-loader`](https://github.com/DFVladislav/hex-loader) | Go, Fyne, GitHub Actions | [📦 Releases](https://github.com/DFVladislav/hex-loader/releases) |
-| **Go GUI (Arduino Manager)** | [`arduino-manager`](https://github.com/DFVladislav/arduino-manager) | Go, Fyne, GitHub Actions | [📦 Releases](https://github.com/DFVladislav/arduino-manager/releases) |
+Быстрые ссылки на все выполненные работы.
 
 ---
 
-## 💻 Языки программирования (CI-пайплайны)
+## 🌐 Живые сайты (GitHub Pages)
+- [hello-static (Статический сайт)](https://DFVladislav.github.io/hello-static/)
+- [hello-pages (React SPA)](https://DFVladislav.github.io/hello-pages/)
 
-Базовые примеры приложений на разных языках программирования с настроенным CI.
+---
 
-| Язык | Репозиторий | Стек |
-| :--- | :--- | :--- |
-| **Go** | [`hello-go`](https://github.com/DFVladislav/hello-go) | Go |
-| **Rust** | [`hello-rust`](https://github.com/DFVladislav/hello-rust) | Rust |
-| **Java** | [`hello-java`](https://github.com/DFVladislav/hello-java) | Java |
-| **Node.js** | [`my-node-app`](https://github.com/DFVladislav/my-node-app) | JavaScript, Node.js |
-| **PHP** | [`my-php-app`](https://github.com/DFVladislav/my-php-app) | PHP |
-| **C++** | [`my-cpp-app`](https://github.com/DFVladislav/my-cpp-app) | C++ |
-| **C# / .NET** | [`hello-gui`](https://github.com/DFVladislav/hello-gui) | C#, .NET |
+## 📦 Релизы приложений
+- [hex-loader (Go GUI)](https://github.com/DFVladislav/hex-loader/releases)
+- [arduino-manager (Go GUI)](https://github.com/DFVladislav/arduino-manager/releases)
+
+---
+
+## 📁 Исходный код проектов (Репозитории)
+- [hello-static](https://github.com/DFVladislav/hello-static)
+- [hello-pages](https://github.com/DFVladislav/hello-pages)
+- [hex-loader](https://github.com/DFVladislav/hex-loader)
+- [arduino-manager](https://github.com/DFVladislav/arduino-manager)
+
+---
+
+## 💻 Языки программирования (CI пайплайны)
+- [hello-go](https://github.com/DFVladislav/hello-go)
+- [hello-python](https://github.com/DFVladislav/hello-python)
+- [hello-rust](https://github.com/DFVladislav/hello-rust)
+- [hello-java](https://github.com/DFVladislav/hello-java)
+- [hello-dotnet (C#)](https://github.com/DFVladislav/hello-dotnet)
+- [hello-gui (C#/.NET)](https://github.com/DFVladislav/hello-gui)
+- [my-node-app (Node.js)](https://github.com/DFVladislav/my-node-app)
+- [my-php-app (PHP)](https://github.com/DFVladislav/my-php-app)
+- [my-cpp-app (C++)](https://github.com/DFVladislav/my-cpp-app)
 
 ---
 
 ## 🐳 Docker и GHCR
-
-Примеры сборки Docker-образов и публикации их в GitHub Container Registry.
-
-| Проект | Репозиторий | Технологии |
-| :--- | :--- | :--- |
-| **Rust CLI** | [`my-rust-app`](https://github.com/DFVladislav/my-rust-app) | Rust, Docker, GHCR |
-| **Go CLI** | [`my-go-app`](https://github.com/DFVladislav/my-go-app) | Go, Docker, GHCR |
-
----
+- [my-rust-app (Rust CLI + Docker)](https://github.com/DFVladislav/my-rust-app)
+- [my-go-app (Go CLI + Docker)](https://github.com/DFVladislav/my-go-app)
